@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hi, I'm Prathamesh! 
+Welcome to my GitHub profile.
+
 A Curious Student studying technologies<br>
 
 
